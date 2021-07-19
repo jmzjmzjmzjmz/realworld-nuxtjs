@@ -1,0 +1,70 @@
+[
+  {
+    "name": "editor",
+    "path": "/editor",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/editor/index.vue",
+    "chunkName": "pages/editor/index",
+    "_name": "_112b9f5f"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_27db2566"
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/settings/index.vue",
+    "chunkName": "pages/settings/index",
+    "_name": "_5b3e64d5"
+  },
+  {
+    "name": "article-components-article-comments",
+    "path": "/article/components/article-comments",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/article/components/article-comments.vue",
+    "chunkName": "pages/article/components/article-comments",
+    "_name": "_07af1d68"
+  },
+  {
+    "name": "article-components-article-meta",
+    "path": "/article/components/article-meta",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/article/components/article-meta.vue",
+    "chunkName": "pages/article/components/article-meta",
+    "_name": "_308298dd"
+  },
+  {
+    "name": "article-slug",
+    "path": "/article/:slug?",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/article/_slug.vue",
+    "chunkName": "pages/article/_slug",
+    "_name": "_4da901dc"
+  },
+  {
+    "name": "profile-username",
+    "path": "/profile/:username?",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/profile/_username.vue",
+    "chunkName": "pages/profile/_username",
+    "_name": "_690fd7b0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_d0c4b99a"
+  },
+  {
+    "path": "/register",
+    "name": "register",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/login",
+    "_name": "_0c3f869c"
+  },
+  {
+    "path": "/editor/:_slug",
+    "name": "editor",
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/editor",
+    "_name": "_359b7d44"
+  }
+]
