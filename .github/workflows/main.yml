@@ -46,7 +46,6 @@ jobs:
         asset_content_type: application/x-tgz
 
     # 部署到服务器
-    # wget https://github.com/jmzjmzjmzjmz/realworld-nuxtjs/releases/latest/download/release.tgz -O release.tgz
     - name: Deploy
       uses: appleboy/ssh-action@master
       with:
@@ -56,7 +55,7 @@ jobs:
         port: ${{ secrets.PORT }}
         script: |
           cd /root/realworld-nuxtjs
-          wget https://github.com/jmzjmzjmzjmz/realworld-nuxtjs/releases/tag/v0.1.3/download/release.tgz -O release.tgz
+          wget https://github.com/jmzjmzjmzjmz/realworld-nuxtjs/releases/latest/download/release.tgz -O release.tgz
           tar zxvf release.tgz
           npm install --production
           pm2 reload pm2.config.json
