@@ -3,68 +3,58 @@
     "name": "editor",
     "path": "/editor",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/editor/index.vue",
-    "chunkName": "pages/editor/index",
-    "_name": "_112b9f5f"
+    "chunkName": "pages/editor/index"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/login/index.vue",
-    "chunkName": "pages/login/index",
-    "_name": "_27db2566"
+    "chunkName": "pages/login/index"
   },
   {
     "name": "settings",
     "path": "/settings",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/settings/index.vue",
-    "chunkName": "pages/settings/index",
-    "_name": "_5b3e64d5"
+    "chunkName": "pages/settings/index"
   },
   {
     "name": "article-components-article-comments",
     "path": "/article/components/article-comments",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/article/components/article-comments.vue",
-    "chunkName": "pages/article/components/article-comments",
-    "_name": "_07af1d68"
+    "chunkName": "pages/article/components/article-comments"
   },
   {
     "name": "article-components-article-meta",
     "path": "/article/components/article-meta",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/article/components/article-meta.vue",
-    "chunkName": "pages/article/components/article-meta",
-    "_name": "_308298dd"
+    "chunkName": "pages/article/components/article-meta"
   },
   {
     "name": "article-slug",
     "path": "/article/:slug?",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/article/_slug.vue",
-    "chunkName": "pages/article/_slug",
-    "_name": "_4da901dc"
+    "chunkName": "pages/article/_slug"
   },
   {
     "name": "profile-username",
     "path": "/profile/:username?",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/profile/_username.vue",
-    "chunkName": "pages/profile/_username",
-    "_name": "_690fd7b0"
+    "chunkName": "pages/profile/_username"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_d0c4b99a"
+    "chunkName": "pages/index"
   },
   {
     "path": "/register",
     "name": "register",
-    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/login",
-    "_name": "_0c3f869c"
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/login"
   },
   {
     "path": "/editor/:_slug",
     "name": "editor",
-    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/editor",
-    "_name": "_359b7d44"
+    "component": "/Users/jinmingzhu/code/lagou/my-code/realword-nuxtjs/pages/editor"
   }
 ]
